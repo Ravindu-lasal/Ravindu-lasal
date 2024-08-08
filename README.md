@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindu-lasal&label=Profile%20views&color=blue&style=plastic" alt="ravindu-lasal" /> </p>
 
 <table align="center">
-<tr border="4px">
- <td width="100%" align="left"> <!--width="50%" align="left"
+<tr border="none">
+ <td width="50%" align="left"> <!--width="50%" align="left"
   
 - 🌱 I’m currently learning : **𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 in Software Engineering**
   
