@@ -80,4 +80,7 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
+---
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
 
