@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 in Software Engineering**
 
-- 👨‍💻 All of my projects are available at [/](/)
+<!--- 👨‍💻 All of my projects are available at [/]()
 
-- 📝 I regularly write articles on [/](/)
+- 📝 I regularly write articles on [/](/)-->
 
 - 📫 How to reach me **ravindusl01@gmail.com**
 
