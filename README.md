@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Ravindu Lasal</h1>
 <h3 align="center">Aspiring Website Developer | System Development Enthusiast | Lifelong Learner</h3>
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 
 <table align="center">
 <tr border="none">
-<td align="left"> <!--width="50%" align="left"-->
+<td width="100%" align="left"> <!--width="50%" align="left"-->
   
 - 🌱 I’m currently learning : **𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 in Software Engineering**
   
