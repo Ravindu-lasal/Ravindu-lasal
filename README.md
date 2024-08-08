@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindu-lasal&label=Profile%20views&color=blue&style=plastic" alt="ravindu-lasal" /> </p>
 
-- 🌱 I’m currently learning **𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 in Software Engineering**
+- 🌱 I’m currently learning :**𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 in Software Engineering**
 
 <!--- 👨‍💻 All of my projects are available at [/]()
 
 - 📝 I regularly write articles on [/](/)-->
 
-- 📫 How to reach me **ravindusl01@gmail.com**
+- 📫 How to reach me        :**ravindusl01@gmail.com**
 
-- ⚡ Fun fact **Call me as Ravi**
+- ⚡ Fun fact               :**Call me as Ravi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
