@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindu-lasal&label=Profile%20views&color=blue&style=plastic" alt="ravindu-lasal" /> </p>
 
+---
+
+<h3 align="center">About me:</h3>
 <table align="center">
 <tr border="none">
 <td width="70%" align="left">
