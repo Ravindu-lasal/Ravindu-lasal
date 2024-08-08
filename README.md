@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [/](/)-->
 
-- 📫 How to reach me        :**ravindusl01@gmail.com**
+- 📫 How to reach me++++++++:**ravindusl01@gmail.com**
 
 - ⚡ Fun fact               :**Call me as Ravi**
 
