@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Ravindu Lasal</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h3 align="center">Aspiring Website Developer | System Development Enthusiast | Lifelong Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindu-lasal&label=Profile%20views&color=0e75b6&style=flat" alt="ravindu-lasal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindu-lasal&label=Profile%20views&color=blue&style=plastic" alt="ravindu-lasal" /> </p>
 
 - 🌱 I’m currently learning **𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 in Software Engineering**
 
