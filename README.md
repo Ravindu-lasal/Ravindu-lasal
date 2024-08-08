@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td > <!--width="50%" align="left"-->
 - 🌱 I’m currently learning : **𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 in Software Engineering**
 
 <!--- 👨‍💻 All of my projects are available at [/]()
@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact : **Call me as Ravi**
 
   </td>
-<td width="50%" align="center">
+<!--<td width="50%" align="center">
 
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
   
-  </td>
+  </td>-->
 </tr>
 </table>
 
