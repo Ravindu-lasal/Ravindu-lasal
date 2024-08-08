@@ -81,6 +81,8 @@ Here are some ideas to get you started:
 </table>
 
 ---
+<div align="center">
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
+</div>
 
