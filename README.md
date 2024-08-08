@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <table align="center">
 <tr border="none">
- <td align="left"> <!--width="50%" align="left"
+ <td width="100%" align="left"> <!--width="50%" align="left"
   
 - 🌱 I’m currently learning : **𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 in Software Engineering**
   
