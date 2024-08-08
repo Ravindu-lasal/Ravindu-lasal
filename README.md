@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="50%" align="left">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ravindu-lasal&theme=dark&show_icons=true&count_private=true" />
   
@@ -78,7 +78,4 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindu-lasal&show_icons=true&theme=tokyonight&locale=en" alt="ravindu-lasal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu-lasal&" alt="ravindu-lasal" /></p>
 
