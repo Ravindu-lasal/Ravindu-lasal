@@ -87,6 +87,8 @@
 <!--
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ravindu-lasal&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 -->
+
+<p align="center"><a href="https://github.com/Dilan-Sathruwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-lasal&theme=tokyonight" /></a></p>
   
   </td>
 </tr>
