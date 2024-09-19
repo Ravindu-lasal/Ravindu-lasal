@@ -4,6 +4,11 @@
 <h1 align="center">Hi 👋, I'm Ravindu Lasal</h1>
 <h3 align="center">Aspiring Website Developer | System Development Enthusiast | Lifelong Learner</h3>
 
+$${\color{red}"Practice} {\color{blue}makes} {\color{blue}perfect"}$$
+
+<!--## $$\textcolor{yellow}{This\ is\ a\ Big\ Title}$$-->
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindu-lasal&label=Profile%20views&color=blue&style=plastic" alt="ravindu-lasal" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
