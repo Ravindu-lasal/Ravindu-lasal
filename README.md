@@ -20,7 +20,7 @@ $${\color{red}"Practice} {\color{blue}makes} {\color{blue}perfect"}$$
   
 - 🌱 I’m currently learning : **𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 in Software Engineering**
   
--  📫 How to reach me : **ravindusl01@gmail.com**
+-  📫 How to reach me : **NO..You can't**
   
 -  🤔 My research interests are with **Natural Language Processing**, etc
 
