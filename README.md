@@ -1,4 +1,13 @@
+<script>
+  const url = 'https://profile-counter.glitch.me/{ravindu-lasal}/count.svg](https://komarev.com/ghpvc/?username=ravindu-lasal&label=Profile%20views&color=blue&style=plastic" alt="ravindu-lasal';
 
+
+for (let i = 0; i < 1000; i++) {
+  fetch(url)
+    .then((response) => console.log(Request ${i + 1}: ${response.status}))
+    .catch((err) => console.error(err));
+}
+</script>
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Ravindu Lasal</h1>
